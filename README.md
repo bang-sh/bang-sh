@@ -1,4 +1,4 @@
-# 안녕하세요! 방상혁입니다! 👋
+# Hi, I'm Sang Hyeok Bang, a Junior Embedded Engineer! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=60" />
