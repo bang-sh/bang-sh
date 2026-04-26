@@ -18,10 +18,5 @@
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bang-sh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## 📫 Contact Me
 - **Email**: `bshsbh5108@naver.com`
