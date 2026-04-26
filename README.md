@@ -1,4 +1,4 @@
-# Hello, I'm Sang Hyeok Bang! 👋
+# 안녕하세요! 방상혁입니다! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=60" />
