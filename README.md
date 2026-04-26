@@ -1,30 +1,27 @@
 # Hello, I'm Sang Hyeok Bang! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Embedded%20Developer%20&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=60" />
 </div>
 
 ## 🚀 About Me
-- 🎯 **Goal**: 하드웨어와 소프트웨어의 가교 역할을 하는 **임베디드 시스템 개발자**를 꿈꾸고 있습니다.
-- 💻 **Focus**: 효율적인 임베디드 C/C++ 프로그래밍과 Verilog를 이용한 하드웨어 설계를 공부하고 있습니다.
-- 🌱 **Learning**: 저전력 시스템 설계와 RTOS(실시간 운영체제)에 관심이 많습니다.
+- 🌱 **배우는 중**: 지금은 **C/C++**과 **Verilog**을 배우고 있습니다.
+- 🎯 **목표**: 하드웨어를 알아가는 **Junior 임베디드 개발자**입니다.
+- 💬 **생각**: 어제보다 더 나은 코드를 짜기 위해 항상 고민하고 실천합니다.
 
 ## 🛠 Tech Stack
 ### Languages & Hardware Design
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Verilog%20HDL-F3F4F7?style=for-the-badge&logo=cpu&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Verilog%20HDL-F3F4F7?style=for-the-badge&logo=cpu&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-### Tools
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+### Tools & Environment
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 ---
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bang-sh&show_icons=true&theme=radical" alt="bang-sh's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bang-sh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 📫 Contact Me
-- **Email**: `bshbsh5108@naver.com`
-
----
-"The best way to predict the future is to invent it."
+- **Email**: `bshsbh5108@naver.com`
