@@ -16,7 +16,6 @@
 ### Tools & Environment
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Quartus%20Prime-003E7A?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
 
----
 
 ## 📫 Contact Me
 - **Email**: `bshsbh5108@naver.com`
